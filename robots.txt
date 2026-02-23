@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ban14456-cell.github.io/bstudio-vocal/sitemap.xml
