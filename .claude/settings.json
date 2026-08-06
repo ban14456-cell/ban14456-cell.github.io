@@ -1,0 +1,18 @@
+{
+  "enabledPlugins": {
+    "browser-use@knowledge-work-plugins": true,
+    "data@knowledge-work-plugins": true,
+    "productivity@knowledge-work-plugins": true,
+    "engineering@knowledge-work-plugins": true,
+    "modern-web-guidance@knowledge-work-plugins": true,
+    "marketing@knowledge-work-plugins": true
+  },
+  "extraKnownMarketplaces": {
+    "knowledge-work-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/knowledge-work-plugins"
+      }
+    }
+  }
+}
